@@ -1,3 +1,5 @@
+create database zepto_SQL_project;
+
 drop table if exists zepto;
 
 create table zepto (
