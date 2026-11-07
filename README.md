@@ -134,4 +134,4 @@ CREATE TABLE zepto (
       - Import the dataset (convert to UTF-8 if necessary)
 
 
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning S
+## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.
